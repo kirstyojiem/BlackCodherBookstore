@@ -1,0 +1,43 @@
+body {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.header h1,
+.header{
+    text-align:center;
+}
+
+.book {
+    border: 10px solid black;
+    max-width: 200px;
+    min-height: 300px;
+}
+
+.addbtn {
+    background-color: rgb(179, 175, 175);
+}
+
+.description {
+    margin: 050px;
+    width: 500px; 
+    display: inline-block; 
+}
+
+
+.addbtn,
+.searchBar input[type=submit] {
+  padding: 8px 10px;
+  border-radius: 5px;
+  min-width: 80px;
+  float: right;
+  font-size: 1.1em;
+}
+
+p {
+    max-width: 300px;
+    border: black;
+}
+
+
+
